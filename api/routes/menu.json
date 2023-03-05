@@ -1,0 +1,337 @@
+[{
+    "item": "1",
+    "day": "mon",
+    "hostel": "boys",
+    "meal": "bf",
+    "complementary1": "Fruit Kesari",
+    "complementary2": "Wheat Rava Upma",
+    "food": "Idly, Sambar, Idly Podi, Coconut Chutney"
+  },{
+    "item": "2",
+    "day": "mon",
+    "hostel": "boys",
+    "meal": "lun",
+    "complementary1": "Appalam",
+    "complementary2": "Butter Milk",
+    "food": "Rice, Drumstick Sambar, Dhal Rasam,Potato Poriyal"
+  },{
+    "item": "3",
+    "day": "mon",
+    "hostel": "boys",
+    "meal": "din",
+    "complementary1": "Kushka, Curd rice",
+    "complementary2": "Banana",
+    "food": "Paratha (week - 1 & 3), Romali Rotti (week - 2 & 4)"
+  },{
+    "item": "4",
+    "day": "tue",
+    "hostel": "boys",
+    "meal": "bf",
+    "complementary1": "Bread Upma",
+    "complementary2": "Coffee Milk",
+    "food": "Dosa/Roast, Tomato Kulambu, Coconut Chutney"
+  },{
+    "item": "5",
+    "day": "tue",
+    "hostel": "boys",
+    "meal": "lun",
+    "complementary1": "Semiya Payasam",
+    "complementary2": "Butter Milk",
+    "food": "Rice, Garlic Kulambu, Puli rasam, Sundal Poriyal"
+  },{
+    "item": "6",
+    "day": "tue",
+    "hostel": "boys",
+    "meal": "din",
+    "complementary1": "Soya Biriyani, Curd Rice",
+    "complementary2": "Badam Milk, Ragi Malt",
+    "food": "Idly, Sambar, Tomato Onion Chutney"
+  },{
+    "item": "7",
+    "day": "wed",
+    "hostel": "boys",
+    "meal": "bf",
+    "complementary1": "Semiya Upma",
+    "complementary2": "Coffee Milk",
+    "food": "Ven Pongal, Vada, Dhal Sambar, Coconut Chutney"
+  },{
+    "item": "8",
+    "day": "wed",
+    "hostel": "boys",
+    "meal": "lun",
+    "complementary1": "White Rice, Garlic Rasam",
+    "complementary2": "Butter Milk",
+    "food": "Variety Rice, Curd Rice, Vadagam"
+  },{
+    "item": "9",
+    "day": "wed",
+    "hostel": "boys",
+    "meal": "din",
+    "complementary1": "Curd rice, Fried rice",
+    "complementary2": "Veg Salad",
+    "food": "Sweet Chapathi, Egg masala, Tomato thokku"
+  },{
+    "item": "10",
+    "day": "thur",
+    "hostel": "boys",
+    "meal": "bf",
+    "complementary1": "Ragi Semiya, Sweet Pongal",
+    "complementary2": "Coffee Milk",
+    "food": "Idly, Sambar, Coriander chutney"
+  },{
+    "item": "11",
+    "day": "thur",
+    "hostel": "boys",
+    "meal": "lun",
+    "complementary1": "Kambhoo khool and Vathal",
+    "complementary2": "Butter Milk",
+    "food": "White rice, Ladies finger Puli kulambu, Lemon rasam, Carrot Beans poriyal"
+  },{
+    "item": "12",
+    "day": "thur",
+    "hostel": "boys",
+    "meal": "din",
+    "complementary1": "Curd rice, Vadagam",
+    "complementary2": "Banana",
+    "food": "Podi Dosa/Onion, Noodles, Coconut chutney"
+  },{
+    "item": "13",
+    "day": "fri",
+    "hostel": "boys",
+    "meal": "bf",
+    "complementary1": "Semiya",
+    "complementary2": "Coffee Milk",
+    "food": "Veg Uthappam, Potato Masal, Kara chutney"
+  },{
+    "item": "14",
+    "day": "fri",
+    "hostel": "boys",
+    "meal": "lun",
+    "complementary1": "Wheat payasam",
+    "complementary2": "Butter milk",
+    "food": "White rice, Brinjal sambar, Tomato rasam, Paruppu vadai"
+  },{
+    "item": "15",
+    "day": "fri",
+    "hostel": "boys",
+    "meal": "din",
+    "complementary1": "Veg Pulao, Curd rice",
+    "complementary2": "Veg Salad",
+    "food": "Chapathi, Green peas/ Channa masala, Jam, Boiled egg "
+  },{
+    "item": "16",
+    "day": "sat",
+    "hostel": "boys",
+    "meal": "bf",
+    "complementary1": "Aval upma",
+    "complementary2": "Vada",
+    "food": "Idly, Sambar, Idly podi, Coconut chutney"
+  },{
+    "item": "17",
+    "day": "sat",
+    "hostel": "boys",
+    "meal": "lun",
+    "complementary1": "Appalam",
+    "complementary2": "Curd",
+    "food": "Rice, Kara kuzhambu, Milagu rasam, Soya beans  poriyal"
+  },{
+    "item": "18",
+    "day": "sat",
+    "hostel": "boys",
+    "meal": "din",
+    "complementary1": "Curd rice, Mint rice / Veg fried rice",
+    "complementary2": "Banana",
+    "food": "Onion mini utthappam, Sambar, Vegetable chutney"
+  },{
+    "item": "19",
+    "day": "sun",
+    "hostel": "boys",
+    "meal": "bf",
+    "complementary1": "Ven Pongal / Semiya upma",
+    "complementary2": "Coffee Milk",
+    "food": "Bread/Wheat bread jam, Butter, sambar, Coconut chutney"
+  },{
+    "item": "20",
+    "day": "sun",
+    "hostel": "boys",
+    "meal": "lun",
+    "complementary1": "White Rice, Lemon Rasam",
+    "complementary2": "Butter milk",
+    "food": "Rice, veg biriyani (1st week), Mushroom Biriyani (2nd week), Soya biriyani(3 rd week), Egg biriyani (4 th week), Egg gravy, Onion raitha"
+  },{
+    "item": "21",
+    "day": "sun",
+    "hostel": "boys",
+    "meal": "din",
+    "complementary1": "Curd rice",
+    "complementary2": "Rose milk/ Sukku paal",
+    "food": "Roast, Variety rice, Sambar, Kara Chutney"
+  },{
+    "item": "22",
+    "day": "mon",
+    "hostel": "girls",
+    "meal": "bf",
+    "complementary1": "Wheat rava kitchadi",
+    "complementary2": "Coffee milk",
+    "food": "Idly, Tomato Kurma, Mint chutney, Idli podi"
+  },{
+    "item": "23",
+    "day": "mon",
+    "hostel": "girls",
+    "meal": "lun",
+    "complementary1": "Kambhoo khool, Appalam",
+    "complementary2": "Butter milk",
+    "food": "Rice, Moor Kulambu , Tomato rasam , Carrot/beans poriyal"
+  },{
+    "item": "24",
+    "day": "mon",
+    "hostel": "girls",
+    "meal": "din",
+    "complementary1": "Curd rice",
+    "complementary2": "Banana",
+    "food": "Onion Dosa, Tamarind rice, Tiffin sambar, Kara chutney, Idli podi"
+  },{
+    "item": "25",
+    "day": "tue",
+    "hostel": "girls",
+    "meal": "bf",
+    "complementary1": "Semiya",
+    "complementary2": "Coffee Milk",
+    "food": "Ven pongal, Vada, Sambar, Coconut chutney"
+  },{
+    "item": "26",
+    "day": "tue",
+    "hostel": "girls",
+    "meal": "lun",
+    "complementary1": "Appalam",
+    "complementary2": "Butter milk",
+    "food": "Rice, Black sundal kulambu, Dhal rasam, Beetroot poriyal"
+  },{
+    "item": "27",
+    "day": "tue",
+    "hostel": "girls",
+    "meal": "din",
+    "complementary1": "Green peas biriyani/Curd rice",
+    "complementary2": "Veg Salad",
+    "food": "Chapathi, Egg , Tomato thokku, Jam"
+  },{
+    "item": "28",
+    "day": "wed",
+    "hostel": "girls",
+    "meal": "bf",
+    "complementary1": "White rava kitchadi",
+    "complementary2": "Coffee milk",
+    "food": "Roast, Potato kuruma, Coconut chutney"
+  },{
+    "item": "29",
+    "day": "wed",
+    "hostel": "girls",
+    "meal": "lun",
+    "complementary1": "Appalam, Payasam",
+    "complementary2": "Butter milk",
+    "food": "Rice, Paruppu keerai kulambu, Puli rasam, Ladies finger poriyal"
+  },{
+    "item": "30",
+    "day": "wed",
+    "hostel": "girls",
+    "meal": "din",
+    "complementary1": "Curd Rice",
+    "complementary2": "Cold badham milk/ragi malt",
+    "food": "Idli, Tamarind Rice/Sevai, Coconut  milk, Sambar, Tomato onion chutney, Idly podi"
+  },{
+    "item": "31",
+    "day": "thur",
+    "hostel": "girls",
+    "meal": "bf",
+    "complementary1": "Plain Wheat bread, Jam, Butter",
+    "complementary2": "Coffee milk",
+    "food": "Veg Uthappam, Sambar, Tomato chutney"
+  },{
+    "item": "32",
+    "day": "thur",
+    "hostel": "girls",
+    "meal": "lun",
+    "complementary1": "white rice + kollu paruppu",
+    "complementary2": "rasam + butter milk",
+    "food": "sambar sadham, tomato rice, onion raitha, vadagam"
+  },{
+    "item": "33",
+    "day": "thur",
+    "hostel": "girls",
+    "meal": "din",
+    "complementary1": "Curd rice, Coconut rice",
+    "complementary2": "Veg Salad, Egg masala",
+    "food": "Chapati, Green peas kurma, Jam"
+  },{
+    "item": "34",
+    "day": "fri",
+    "hostel": "girls",
+    "meal": "bf",
+    "complementary1": "Sweet pongal",
+    "complementary2": "Coffee milk",
+    "food": "Idly, Medu vada, Sambar, Onion/coconut chutney, Idly podi"
+  },{
+    "item": "35",
+    "day": "fri",
+    "hostel": "girls",
+    "meal": "lun",
+    "complementary1": "Curd ",
+    "complementary2": "Appalam",
+    "food": "Rice, Ladies finger puli kulambu, Dhal rasam,Potato poriyal"
+  },{
+    "item": "36",
+    "day": "fri",
+    "hostel": "girls",
+    "meal": "din",
+    "complementary1": "Curd rice/Mint rice",
+    "complementary2": "Banana",
+    "food": "Parotta/Romali Rotti/Dosa, Veg Kurma/Channa Masala/Sambar, Coconut Chutney, Idly podi "
+  },{
+    "item": "37",
+    "day": "sat",
+    "hostel": "girls",
+    "meal": "bf",
+    "complementary1": "Semiya upma",
+    "complementary2": "Coffee milk",
+    "food": "Dosa, Sambar, Tomato/Groundnut Chutney"
+  },{
+    "item": "38",
+    "day": "sat",
+    "hostel": "girls",
+    "meal": "lun",
+    "complementary1": "Paruppu vada, Payasam",
+    "complementary2": "Butter milk",
+    "food": "Rice, Drum stick sambar, Rasam"
+  },{
+    "item": "39",
+    "day": "sat",
+    "hostel": "girls",
+    "meal": "din",
+    "complementary1": "Rose milk/Sukku paal",
+    "complementary2": "Vadagam",
+    "food": "Idly, Egg fried/Variety rice, Curd rice, Tomato sauce"
+  },{
+    "item": "40",
+    "day": "sun",
+    "hostel": "girls",
+    "meal": "bf",
+    "complementary1": "Grain dosa",
+    "complementary2": "Coffee milk",
+    "food": "Roasted/Plain bread, Sambar, Tomato/Groundnut chutney"
+  },{
+    "item": "41",
+    "day": "sun",
+    "hostel": "girls",
+    "meal": "lun",
+    "complementary1": " Egg gravy, Mushroom biriyani",
+    "complementary2": "Butter milk",
+    "food": "Vegetable biriyani, Onion raitha, White rice, Egg gravy"
+  },{
+    "item": "42",
+    "day": "sun",
+    "hostel": "girls",
+    "meal": "din",
+    "complementary1": "Curd rice, Vadagam",
+    "complementary2": "Banana, Rose milk/Sukku paal",
+    "food": "Roast, Tiffin sambar, Noodles, Sauce"
+  }]

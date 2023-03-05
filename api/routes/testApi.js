@@ -4,8 +4,17 @@
 
 var express=require('express');
 const mongoose=require('mongoose');
+const fs = require('fs');
+const path = require('path');
+const menuFilePath = path.join(__dirname, 'menu.json');
+const jsonData = fs.readFileSync(menuFilePath);
+const data = JSON.parse(jsonData);
+//const password = encodeURIComponent('Vimalraj#8608');
 var router=express.Router();
-mongoose.connect('mongodb://127.0.0.1:27017/Mess-Menu-Predictor').then(()=>console.log("Connected!"));
+mongoose.connect(process.env.MONGODB_URI,{
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+}).then(()=>console.log("Connected!"));
 const myDataSchema = new mongoose.Schema({
     item: Number,
     day: String,
@@ -16,6 +25,8 @@ const myDataSchema = new mongoose.Schema({
     food:String,
   },{collection:'menuDatabase'});
   const MyData = mongoose.model('MyData', myDataSchema);
+  MyData.insertMany(data).then(() => {
+    console.log('Data inserted successfully');})
 router.post('/',(req,res,next)=>
 {
     const hostel_ = req.body.hostel;
