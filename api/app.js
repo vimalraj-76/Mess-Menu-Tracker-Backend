@@ -4,13 +4,18 @@ var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 var cors=require('cors');
+require('dotenv').config();
+const mongoose=require('mongoose');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/getMenu');
 var testApiRouter=require('./routes/testApi')
 
 var app = express();
 
-// view engine setup
+mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true })
+  .then(() => console.log('MongoDB Atlas connected'))
+  .catch(err => console.log(err)); 
+
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 app.use(logger('dev'));

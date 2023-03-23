@@ -9,24 +9,20 @@ const path = require('path');
 const menuFilePath = path.join(__dirname, 'menu.json');
 const jsonData = fs.readFileSync(menuFilePath);
 const data = JSON.parse(jsonData);
+const MyData = require('../models/user');
 //const password = encodeURIComponent('Vimalraj#8608');
 var router=express.Router();
 mongoose.connect(process.env.MONGODB_URI,{
   useNewUrlParser: true,
   useUnifiedTopology: true,
 }).then(()=>console.log("Connected!"));
-const myDataSchema = new mongoose.Schema({
-    item: Number,
-    day: String,
-    hostel: String,
-    meal:String,
-    complementary1:String,
-    complementary2:String,
-    food:String,
-  },{collection:'menuDatabase'});
-  const MyData = mongoose.model('MyData', myDataSchema);
-  MyData.insertMany(data).then(() => {
-    console.log('Data inserted successfully');})
+
+try {
+  MyData.insertMany(data);
+  console.log('Data inserted successfully');
+  } catch (error) {
+  console.log(error);
+  }
 router.post('/',(req,res,next)=>
 {
     const hostel_ = req.body.hostel;
