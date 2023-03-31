@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const userSchema = new mongoose.Schema({
   item: {
-    type: Number,
+    type: String,
     required: true
   },
   day: {
@@ -31,6 +31,6 @@ const userSchema = new mongoose.Schema({
   },
 });
 
-const MyData = mongoose.model('User', userSchema);
+const User = mongoose.model('User', userSchema);
 
-module.exports = MyData;
+module.exports = User;
